@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri Aug 28 12:31:44 2020
+[*]
+[dumpfile] "build/reset_sync_tb/reset_sync_tb.vcd"
+[dumpfile_mtime] "Fri Aug 28 12:31:20 2020"
+[dumpfile_size] 1505
+[savefile] "scripts/reset_sync_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-8.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 212
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 147
+@28
+reset_sync_tb.clk_i
+reset_sync_tb.arstn_i
+reset_sync_tb.rstn_o
+[pattern_trace] 1
+[pattern_trace] 0
